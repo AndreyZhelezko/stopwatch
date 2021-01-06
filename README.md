@@ -1,2 +1,4 @@
 # stopwatch
-Created with CodeSandbox
+
+
+npm install
